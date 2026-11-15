@@ -100,15 +100,6 @@ The SQL file has been reviewed as code; repository users should execute it in th
 ## Selected findings in the supplied analysis
 
 The current report calculates descriptive rates including online vs. in-store channel differences, high-risk-country vs. other-country differences, overnight-hour differences, and transaction-velocity segments. These are associations in the supplied dataset, not demonstrated causal effects. Refer to the management report for the evidence, definitions, and limitations.
+ 
 
-## Limitations
-
-- The dataset is not a live bank transaction feed.
-- SQL scripts have not been executed against the repository user's local database; query results must be reproduced locally.
-- The screenshots do not provide access to the underlying PBIX model, relationships, or interactions.
-- Temporal source flags contain inconsistencies; timestamp-derived values are preferred for time-based analysis.
-- Monetary currency units are not confirmed.
-
-## Portfolio note
-
-This repository is intended to demonstrate data cleaning, SQL analysis, DAX measure design, dashboard development, data-quality validation, and business communication. Do not present the dataset as actual customer banking records or the report as a production fraud-detection system.
+ 
