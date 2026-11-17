@@ -151,10 +151,4 @@ Credit-Card-Fraud-Detection-Project/
 - Currency units are not confirmed.
 - Findings are associations, not causal conclusions.
 
-## Portfolio skills demonstrated
-
-Data cleaning and quality validation · exploratory data analysis · SQL aggregation and segmentation · DAX measures and Query View · Power BI dashboard design · KPI definition · business interpretation · risk-focused storytelling · evidence-based recommendations.
-
----
-
-*Prepared as a data analytics portfolio project. The dataset is synthetic; the dashboard is an analytical prototype and not a live fraud-monitoring system.*
+ 
